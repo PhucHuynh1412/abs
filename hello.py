@@ -5,11 +5,6 @@ import pyinputplus as pin
 import random
 import matplotlib.pyplot as plt
 
-arr = np.arange(5)
-for num in arr:
-    print(random.randint(1,10))
-
-
 print('What is your name?')
 myName = input()
 
