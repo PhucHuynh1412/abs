@@ -1,3 +1,5 @@
+import time
+
 my_family = {'Phúc': 'ngày 24 tháng 12','Hiếu': 'ngày 13 tháng 10','Đông':'ngày 25 tháng 2','Vi': 'ngày 7 tháng 8'}
 
 while True:
@@ -15,4 +17,4 @@ while True:
         print('Ngày sinh của bạn đã được cập nhật')
 
 print(my_family)
-
+time.sleep(1)
